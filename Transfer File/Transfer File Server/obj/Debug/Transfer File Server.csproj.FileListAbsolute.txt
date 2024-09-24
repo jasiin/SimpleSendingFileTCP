@@ -1,0 +1,10 @@
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\bin\Debug\Transfer File Server.exe.config
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\bin\Debug\Transfer File Server.exe
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\bin\Debug\Transfer File Server.pdb
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\obj\Debug\Transfer File Server.csproj.AssemblyReference.cache
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\obj\Debug\Transfer_File_Server.Form1.resources
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\obj\Debug\Transfer_File_Server.Properties.Resources.resources
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\obj\Debug\Transfer File Server.csproj.GenerateResource.cache
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\obj\Debug\Transfer File Server.csproj.CoreCompileInputs.cache
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\obj\Debug\Transfer File Server.exe
+C:\Users\tiowe\Documents\kuliah\Semester 5\Transfer File\Transfer File Server\obj\Debug\Transfer File Server.pdb
